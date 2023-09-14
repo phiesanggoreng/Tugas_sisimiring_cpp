@@ -9,7 +9,7 @@ int main()
     cout << "|hello nibrass|" << endl;
     cout << "+_____________+" << endl;
     
-    double sisiA, sisiB, sisiMiring;
+    float sisiA, sisiB, sisiMiring;
 
     cout << "Masukkan panjang sisi tegak(a): ";
     cin >> sisiA;
