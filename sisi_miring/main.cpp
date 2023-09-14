@@ -21,6 +21,7 @@ int main()
     sisiMiring = sqrt(pow(sisiA, 2) + pow(sisiB, 2));
 
     cout << "Panjang sisi miring(c) adalah: " << sisiMiring << endl;
-
+    
+    system("paused");
     return 0;
 }
