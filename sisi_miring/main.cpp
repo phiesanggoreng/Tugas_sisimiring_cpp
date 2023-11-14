@@ -22,6 +22,6 @@ int main()
 
     cout << "Panjang sisi miring(c) adalah: " << sisiMiring << endl;
     
-    system("paused");
+    system("pause");
     return 0;
 }
